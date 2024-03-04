@@ -1,0 +1,1 @@
+DAY02 was chaotic with Android Studio Hedgehog issues, switched to Iguana, faced partition problems, spent hours on dependency downloads, struggled with emulator setup, resolved duplicate class error late at night. Now, my code doesn’t align with the course, and I’m stuck.
