@@ -1,3 +1,4 @@
+//this file will only run with propper dependencies and make sure you have andriod studio
 package kotlin.DAY03
 
 package com.example.myapp

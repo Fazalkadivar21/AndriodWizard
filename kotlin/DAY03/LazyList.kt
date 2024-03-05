@@ -1,3 +1,4 @@
+//this file will only run with propper dependencies and make sure you have andriod studio
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
